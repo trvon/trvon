@@ -3,9 +3,6 @@
 - Available at [manta.black](manta.black) and [trevon.dev](trevon.dev)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=trvon&show_icons=true&theme=dark&locale=en" alt="trvon" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trvon&theme=dark" alt="trvon" /></p>
-
 <!--
 **trvon/trvon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
