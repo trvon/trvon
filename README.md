@@ -1,6 +1,6 @@
-<h3 align="center">Network Security Researcher and Student</h3>
+<h3 align="center">Security Researcher and Student</h3>
 
-- Available at [manta.black](manta.black) and [trevon.dev](trevon.dev)
+- Available at [manta.black](https://manta.black) and [trevon.dev](https://trevon.dev)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=trvon&show_icons=true&theme=dark&locale=en" alt="trvon" /></p>
 <!--
